@@ -1,1 +1,3 @@
-#Hi there, i'm manda
+theme: mannndc.github.io
+title: mnd
+description: hello everyone🩹

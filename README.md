@@ -1,3 +1,3 @@
 theme: mannndc.github.io
-title: mnd
-description: hello everyone🩹
+title: manndacel
+description: Hallo, ini website pertamaku
